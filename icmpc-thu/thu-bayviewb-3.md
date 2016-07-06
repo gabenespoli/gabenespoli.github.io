@@ -2,13 +2,14 @@
 layout: page
 permalink: /icmpc/thu-bayviewb-3.html
 ---
-Acoustics & Psychophysics 2  
-Thursday, 14:00–15:30  
-Marina  
-Session Chair: Alexandra Lamont  
+Music & Meaning 1
 
-14:00 Insights into the Complexities of Music Listening for Hearing Aid Users. Alinka Greasley, Harriet Crook, Robert Fulford, Jackie Salter  
+Thursday, 14:00–15:00
 
-14:30 The Perception of Auditory Distortion Products from Orchestral Crotales. Alex Chechile  
+Bayview B
 
-15:00 Vibrotactile Perception of Music. Frank A. Russo  
+Session Chair: Martin Norgaard
+
+14:00 Evaluating the Musical Protolanguage Hypothesis Using a Serial Reproduction Task . . . . . . . . . . . . . . . . . . 402 William Thompson, Anna Fiveash, Weiyi Ma
+
+14:30 Instrumental Functionality and its Impact on Musical Perception ....................................... 403 Morten Schuldt-Jensen
