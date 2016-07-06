@@ -2,13 +2,19 @@
 layout: page
 permalink: /icmpc/thu-bayviewb-1.html
 ---
-Acoustics & Psychophysics 2  
-Thursday, 14:00–15:30  
-Marina  
-Session Chair: Alexandra Lamont  
+Music & Emotions 2  
+Thursday, 08:30–10:30  
+Bayview B  
+Session Chair: Fernando Bravo  
 
-14:00 Insights into the Complexities of Music Listening for Hearing Aid Users. Alinka Greasley, Harriet Crook, Robert Fulford, Jackie Salter  
+8:30 The ‘rasa’ in the ‘raga’? Brain Networks of Emotion Responses to North Indian Classical ragas. . . . . . . 247 Avantika Mathur, Nandini Chatterjee Singh
 
-14:30 The Perception of Auditory Distortion Products from Orchestral Crotales. Alex Chechile  
+9:00 Multimodal Affective Interactions: Comparing Auditory and Visual Components in Dramatic Scenes........................................................................................................ 248
+Moe Touizrar, Sarah Gates, Kit Soden, Bennett K. Smith, Stephen McAdams
 
-15:00 Vibrotactile Perception of Music. Frank A. Russo  
+9:30 Differences in Verbal Description of Music Listening Experiences Between College Students
+with Total Blindness and Typical Vision................................................................... 249
+Hye Young Park, Hyun Ju Chong
+
+10:00 Social eMotions — Communicating Emotions in Contemporary Dance .................................. 253
+Tommi Himberg, Klaus Förger, Maija Niinisalo, Johanna Nuutinen, Jarkko Lehmus
