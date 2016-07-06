@@ -21,3 +21,5 @@ weight: 2
 [Music & Meaning 1 (Bayview B)](/icmpc/thu-bayviewb-3)  
 [Music Performance 3 (Seacliff D)](/icmpc/thu-seacliffd-3)  
 [Acoustics & Psychophysics 2 (Marina)](/icmpc/thu-marina-3)  
+
+#### 16:00–17:00 Poster Session
