@@ -5,7 +5,7 @@ permalink: /icmpc-thu.html
 ---
 
 #### 08:30–10:30
-[Bayview A: Music & Language 4](icmpc/thu-bayviewa-1)  
+[Bayview A: Music & Language 4](/icmpc/thu-bayviewa-1)  
 [Bayview B](https://gabenespoli.github.io/icmpc-thu-bayviewb-1)  
 [Seacliff D](https://gabenespoli.github.io/icmpc-thu-seacliffd-1)  
 [Marina](https://gabenespoli.github.io/icmpc-thu-marina-1)  
