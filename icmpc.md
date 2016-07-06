@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICMPC14 Schedule
+# title: ICMPC14 Schedule
 permalink: /icmpc/
 weight: 1
 ---
