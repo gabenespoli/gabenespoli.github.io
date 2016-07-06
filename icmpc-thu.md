@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICMPC14 Schedule
+title: Thursday
 permalink: /icmpc-thu/
 ---
 
