@@ -2,6 +2,7 @@
 layout: page
 title: Friday
 permalink: /icmpc-fri/
+weight: 3
 ---
 #### 08:30–10:30
 [Music & Movement 3 (Bayview A)](/icmpc/fri-bayviewa-1)  

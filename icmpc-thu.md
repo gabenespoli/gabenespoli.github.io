@@ -2,6 +2,7 @@
 layout: page
 title: Thursday
 permalink: /icmpc-thu/
+weight: 2
 ---
 #### 08:30–10:30
 [Music & Language 4 (Bayview A)](/icmpc/thu-bayviewa-1)  

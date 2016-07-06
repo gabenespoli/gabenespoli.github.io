@@ -2,6 +2,7 @@
 layout: page
 title: Saturday
 permalink: /icmpc-sat/
+weight: 4
 ---
 #### 08:30–10:30
 [(Bayview A)](/icmpc/sat-bayviewa-1)  
