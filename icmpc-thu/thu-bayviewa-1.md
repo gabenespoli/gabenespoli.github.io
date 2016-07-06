@@ -1,6 +1,5 @@
 ---
 layout: page
-# title: Music & Language 4
 permalink: /icmpc/thu-bayviewa-1.html
 ---
 **Music & Language 4**  
