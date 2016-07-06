@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thursday
-permalink: /icmpc-thu.html
+permalink: /icmpc-thu/
 ---
 
 #### 08:30–10:30
