@@ -3,10 +3,7 @@ layout: page
 # title: Music & Language 4
 permalink: /icmpc/thu-bayviewa-1.html
 ---
-
-## Thursday
-
-### 08:30–10:30
+## Thursday 08:30–10:30
 
 ### Bayview A
 
