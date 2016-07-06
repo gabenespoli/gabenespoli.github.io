@@ -7,7 +7,7 @@
 
 # Site settings
 title: ICMPC 14 Schedule
-email: gabenespoli@gmail.com
+email: gabe@psych.ryerson.ca
 description: > # this means to ignore newlines until "baseurl:"
   A chronological organization of the ICMPC14 talk schedule.
 baseurl: "" # the subpath of your site, e.g. /blog
