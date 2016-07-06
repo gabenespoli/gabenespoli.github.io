@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Publications
 permalink: /publications/
 ---
-
+ -->
 Nespoli, G., Ammirante, P., & Russo, F.A. (2015, August 2). [Entrainment of Neural Oscillations to Auditory Stimuli: A Source Localization Approach using EEG](images/Nespoli-poster-SMPC2015.pdf). Poster presentation at Biennial Meeting of the Society for Music Perception and Cognition (SMPC) Conference, Vanderbilt University, Nashville, TN.
 
 Nespoli, G., Ammirante, P., & Russo, F.A. (2015, March 30). [Musicianship and Neural Synchronization at Multiple Timescales](images/Nespoli-poster-CNS2015.pdf). Poster presentation at the 22nd Annual Meeting of the Cognitive Neuroscience Society (CNS), San Francisco, CA.

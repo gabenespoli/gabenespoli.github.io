@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
-
+ -->
 # Heading 1
 
 ## Heading 2
