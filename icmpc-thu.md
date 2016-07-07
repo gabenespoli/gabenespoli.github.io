@@ -22,4 +22,5 @@ weight: 2
 [Music Performance 3 (Seacliff D)](/icmpc/thu-seacliffd-3)  
 [Acoustics & Psychophysics 2 (Marina)](/icmpc/thu-marina-3)  
 
-#### 16:00–17:00 Poster Session
+#### 16:00–17:00 
+[Poster Session (Seacliff A-C)](/icmpc/thu-posters)
