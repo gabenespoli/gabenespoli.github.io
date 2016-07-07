@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: ICMPC 14 Schedule
+title: ICMPC14 Schedule
 email: gabe@psych.ryerson.ca
 description: > # this means to ignore newlines until "baseurl:"
   A chronological organization of the ICMPC14 talk schedule.
