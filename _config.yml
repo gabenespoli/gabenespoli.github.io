@@ -9,7 +9,7 @@
 title: ICMPC14 Schedule
 email: gabe@psych.ryerson.ca
 description: > # this means to ignore newlines until "baseurl:"
-  A chronological organization of the ICMPC14 talk schedule.
+  A chronological organization of the ICMPC14 talk and poster  schedule.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabenespoli.github.io" # the base hostname & protocol for your site
 twitter_username: gabenespoli

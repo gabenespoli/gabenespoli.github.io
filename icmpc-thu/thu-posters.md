@@ -173,4 +173,3 @@ Shinya Fujii (The University of Tokyo), Th67
 
 Spared motor synchronization to the beat of music in the presence of poor beat perception  
 Valentin Begel (Montpellier University), Th68
-
