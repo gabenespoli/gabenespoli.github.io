@@ -3,7 +3,7 @@ layout: page
 permalink: /icmpc/thu-posters.html
 ---
 Poster Session  
-Thursday, 16:00–17:00
+Thursday, 16:00–17:00  
 Seacliff A–C
 
 **Cognitive Musicology**
