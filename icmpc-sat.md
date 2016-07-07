@@ -28,4 +28,5 @@ weight: 4
 [Cross-Cultural Studies of Music 1 (Seacliff D)](/icmpc/sat-seacliffd-4)  
 [Memory & Music 4 (Marina)](/icmpc/sat-marina-4)  
 
-#### 16:00–17:00 Poster Session
+#### 16:00–17:00 
+[Poster Session (Seacliff A-C)](/icmpc/sat-posters)
