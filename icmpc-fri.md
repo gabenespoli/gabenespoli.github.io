@@ -18,3 +18,6 @@ weight: 3
 
 #### 13:30–15:30
 [Lunch Cruise departing from Pier 3 (click for map)](https://www.google.ca/maps/dir/Hyatt+Regency+San+Francisco,+Embarcadero+Center,+San+Francisco,+CA,+USA/Pier+3,+The+Embarcadero,+San+Francisco,+CA+94109,+USA/@37.7963737,-122.3971339,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x808580614d1f605f:0x84660c500c409d2b!2m2!1d-122.395843!2d37.794372!1m5!1m1!1s0x8085812731b057cd:0xbe00e2524c0846d6!2m2!1d-122.3945157!2d37.7983669!3e2)
+
+#### 16:30–20:30
+CCRMA tour, dance workshop and jam session
