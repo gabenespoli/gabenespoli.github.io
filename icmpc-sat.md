@@ -32,4 +32,4 @@ weight: 4
 [Poster Session (Seacliff A-C)](/icmpc/sat-posters)
 
 #### 17:00–18:00
-[Closing Keynote](http://icmpc.org/icmpc14/keynotes.html)
+[Closing Keynote (Bayview A+B)](http://icmpc.org/icmpc14/keynotes.html)
