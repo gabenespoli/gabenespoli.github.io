@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
 title: Curriculum Vitae
-permalink: /cv/
+permalink: cv.html
 ---
- -->
+
 # Heading 1
 
 ## Heading 2
