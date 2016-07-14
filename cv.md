@@ -5,14 +5,6 @@ permalink: cv.html
 weight: 2
 ---
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
 # Gabriel A. Nespoli
 2 Sumach Street, Toronto, ON M5A 3J4 CANADA  
 gabenespoli@gmail.com  
