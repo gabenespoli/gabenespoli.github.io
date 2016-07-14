@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: cv.html
+weight: 2
 ---
 
 # Heading 1

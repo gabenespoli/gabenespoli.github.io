@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications.html
+weight: 1
 ---
 
 Nespoli, G.A., & Russo, F.A. (2016, July 7). [Perceived groove and neural entrainment to the beat](images/posters/Nespoli-poster-2016-ICMPC-groove.png). Poster presentation at *Biennial Meeting of the International Conference for Music Perception and Cognition (ICMPC)*, San Francisco, CA.
