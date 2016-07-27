@@ -5,13 +5,13 @@ permalink: /publications.html
 weight: 1
 ---
 
-Nespoli, G.A., & Russo, F.A. (2016, July 7). [Perceived groove and neural entrainment to the beat](posters/Nespoli-poster-2016-ICMPC-groove.png). Poster presentation at *Biennial Meeting of the International Conference for Music Perception and Cognition (ICMPC)*, San Francisco, CA.
+Nespoli, G.A., & Russo, F.A. (2016, July 7). **Perceived groove and neural entrainment to the beat**]. Poster presentation at *Biennial Meeting of the International Conference for Music Perception and Cognition (ICMPC)*, San Francisco, CA. [pdf](posters/Nespoli-poster-2016-ICMPC-groove.png)
 
-Nespoli, G.A., Singh, G., & Russo, F.A. (2016, July 6). [The effects of hearing impairment and hearing aids on the physiological response to emotional speech](posters/Nespoli-poster-2016-ICMPC-phonak.png). Poster presentation at *Biennial Meeting of the International Conference for Music Perception and Cognition (ICMPC)*, San Francisco, CA.
+Nespoli, G.A., Singh, G., & Russo, F.A. (2016, July 6). **The effects of hearing impairment and hearing aids on the physiological response to emotional speech**. Poster presentation at *Biennial Meeting of the International Conference for Music Perception and Cognition (ICMPC)*, San Francisco, CA. [pdf](posters/Nespoli-poster-2016-ICMPC-phonak.png)
 
-Nespoli, G., Ammirante, P., & Russo, F.A. (2015, August 2). [Entrainment of Neural Oscillations to Auditory Stimuli: A Source Localization Approach using EEG](posters/Nespoli-poster-2015-SMPC-entrainment.png). Poster presentation at *Biennial Meeting of the Society for Music Perception and Cognition (SMPC) Conference*, Vanderbilt University, Nashville, TN.
+Nespoli, G., Ammirante, P., & Russo, F.A. (2015, August 2). **Entrainment of Neural Oscillations to Auditory Stimuli: A Source Localization Approach using EEG**. Poster presentation at *Biennial Meeting of the Society for Music Perception and Cognition (SMPC) Conference*, Vanderbilt University, Nashville, TN. [pdf](posters/Nespoli-poster-2015-SMPC-entrainment.png)
 
-Nespoli, G., Ammirante, P., & Russo, F.A. (2015, March 30). [Musicianship and Neural Synchronization at Multiple Timescales](posters/Nespoli-poster-2015-CNS-eegffr.png). Poster presentation at the *22nd Annual Meeting of the Cognitive Neuroscience Society (CNS)*, San Francisco, CA.
+Nespoli, G., Ammirante, P., & Russo, F.A. (2015, March 30). **Musicianship and Neural Synchronization at Multiple Timescales**. Poster presentation at the *22nd Annual Meeting of the Cognitive Neuroscience Society (CNS)*, San Francisco, CA. [pdf](posters/Nespoli-poster-2015-CNS-eegffr.png)
 
 Branje, C., Nespoli, G., Russo, F.A., & Fels, D.I. (2014). The effect of vibrotactile stimulation on the emotional response to horror films. *Computers in Entertainment*, *11*(1). doi: 10.1145/2543698.2543703
 
