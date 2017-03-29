@@ -7,9 +7,9 @@ weight: 2
 
 # Gabriel A. Nespoli
 
-gabenespoli.com | 
-gnespoli@ryerson.ca | 
-105 Bond St., Toronto, ON M5B 1Y3 CANADA | 
+gabenespoli.com  
+gnespoli@ryerson.ca  
+105 Bond St., Toronto, ON M5B 1Y3 CANADA  
 *Updated*: March 29, 2017
 
 # Education
