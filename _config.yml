@@ -9,11 +9,11 @@
 
 # Site settings
 title: Gabriel A. Nespoli
-email: gabe@psych.ryerson.ca
+email: gnespoli@ryerson.ca
 description:
   Science of Music, Auditory Research, & Technology (SMART) Lab,
   Ryerson Unviersity, Department of Psychology,
-  105 Bond St, Toronto, ON M5B 1Y3
+  105 Bond St, Toronto, ON M5B 1Y3 CANADA
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabenespoli.github.io" # the base hostname & protocol for your site
 twitter_username: gabenespoli
