@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: cv.html
 weight: 2
 ---
@@ -29,12 +29,12 @@ Thesis: Beauty in the Body of the Beholder: The Physiological Correlates of Musi
 
 ## Grants
 1. Ontario Graduate Scholarship (2012–2016).
-2. MITACS Accelerate.
-3. NSERC PhD fundable but not funded
+1. MITACS Accelerate.
+1. NSERC PhD fundable but not funded
 
 ## Prizes
-1. Bregman Prize in Psychological Acoustics (2014). Canadian Acoustical Association.
-2. Poster Award at PGSA Symposium, Ryerson University
+#. Bregman Prize in Psychological Acoustics (2014). Canadian Acoustical Association.
+#. Poster Award at PGSA Symposium, Ryerson University
 
 # Research
 
