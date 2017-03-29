@@ -14,19 +14,19 @@ gnespoli@ryerson.ca
 
 # Education
 
-Ph.D. Student, Psychology (expected 2018) | 
-Ryerson University, Toronto, Canada | 
-*Advisory Committee*: Frank A. Russo, Todd A. Girard, & Margaret C. Moulson | 
+Ph.D. Student, Psychology (expected 2018)  
+Ryerson University, Toronto, Canada  
+*Advisory Committee*: Frank A. Russo, Todd A. Girard, & Margaret C. Moulson  
 *Dissertation*: The Neuroscience of Groove: Neural Mechanisms Marrying Music and Movement
 
-M.A., Psychology (2014) | 
-Ryerson University, Toronto, Canada | 
-*Advisory Committee*: Frank A. Russo, Benjamin J. Dyson, & Lixia Yang | 
+M.A., Psychology (2014)  
+Ryerson University, Toronto, Canada  
+*Advisory Committee*: Frank A. Russo, Benjamin J. Dyson, & Lixia Yang  
 *Thesis*: Musicianship and Neural Synchronization at Multiple Timescales
 
-B.Sc., Psychology (2007) | 
-McGill University, Montreal, Canada | 
-*Advisor*: Stephen E. McAdams | 
+B.Sc., Psychology (2007)  
+McGill University, Montreal, Canada  
+*Advisor*: Stephen E. McAdams  
 *Thesis*: Beauty in the Body of the Beholder: The Physiological Correlates of Musical Emotion
 
 # Awards
