@@ -33,8 +33,8 @@ Thesis: Beauty in the Body of the Beholder: The Physiological Correlates of Musi
 1. NSERC PhD fundable but not funded
 
 ## Prizes
-#. Bregman Prize in Psychological Acoustics (2014). Canadian Acoustical Association.
-#. Poster Award at PGSA Symposium, Ryerson University
+0. Bregman Prize in Psychological Acoustics (2014). Canadian Acoustical Association.
+0. Poster Award at PGSA Symposium, Ryerson University
 
 # Research
 
