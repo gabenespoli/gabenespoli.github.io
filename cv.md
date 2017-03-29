@@ -53,8 +53,6 @@ McGill University, Montreal, Canada
 
 ### Journal Articles
 
-1. Nespoli, G.A., & Russo, F.A. (2017). Groove Preferentially Modulates Neural Entrainment in Premotor Cortices. Submitted to *Experimental Brain Research*.
-
 1.  Good, A., Gordon, K., Papsin, B.C., Nespoli, G., Hopyan, T., Peretz, I., & Russo F.A. (2017). Benefits of Music Training for Perception of Emotional Speech Prosody in Deaf Children with Cochlear Implants. *Ear & Hearing*.
 
 1.  Branje, C., Nespoli, G., Russo, F.A., & Fels, D.I. (2014). The effect of vibrotactile stimulation on the emotional response to horror films. *Computers in Entertainment*, *11*, 1-13. doi: 10.1145/2543698.2543703
