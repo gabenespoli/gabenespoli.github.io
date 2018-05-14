@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gabenespoli.com/resampling/</guid>
-      <description>This is a project for assessing when averages become stable. The R scripts can be found on github at gabenespoli/resampling.</description>
+      <description>This is a project for assessing when averages become stable.
+The R code can be found on Github at gabenespoli/resampling, and the working paper can be found on the OSF page (Open Science Framework).</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gabenespoli.com/phzlab/</guid>
-      <description>PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral (e.g., EDA, EMG) and neural (i.e., ABR). It can be found on github at gabenespoli/phzlab.</description>
+      <description>PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral (e.g., EDA, EMG) and neural (i.e., ABR).
+It can be found on Github at gabenespoli/phzlab.</description>
     </item>
     
     <item>
@@ -34,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gabenespoli.com/vim/</guid>
-      <description>A few small vim plugins that I&amp;rsquo;ve written:
+      <description>I have written a few vim plugins.
 vim-cider-vinegar
 vim-mutton</description>
     </item>
