@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Gabe Nespoli</title>
+    <link>http://gabenespoli.com/categories/projects/</link>
+    <description>Recent content in Projects on Gabe Nespoli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://gabenespoli.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An R tool for assessing when averages are stable</title>
+      <link>http://gabenespoli.com/resampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/resampling/</guid>
+      <description>This is a project for assessing when averages become stable. The R scripts can be found on github at gabenespoli/resampling.</description>
+    </item>
+    
+    <item>
+      <title>PHZLAB</title>
+      <link>http://gabenespoli.com/phzlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/phzlab/</guid>
+      <description>PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral (e.g., EDA, EMG) and neural (i.e., ABR). It can be found on github at gabenespoli/phzlab.</description>
+    </item>
+    
+    <item>
+      <title>The effects of hearing aids on physiological responses to emotional speech</title>
+      <link>http://gabenespoli.com/physiohearingaids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/physiohearingaids/</guid>
+      <description>This project investigates the effects of hearing aids on skin conductance when hearing emotional speech.
+Analysis code can be found on github at gabenespoli/physiohearingaids. These scripts rely heavily on PHZLAB.</description>
+    </item>
+    
+    <item>
+      <title>The neuroscience of how music makes us move</title>
+      <link>http://gabenespoli.com/entrainment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/entrainment/</guid>
+      <description>My dissertation work investigates aspects of music that drive neural entrainment.
+Analysis code can be found on github at gabenespoli/entrainment.</description>
+    </item>
+    
+    <item>
+      <title>Vim plugins</title>
+      <link>http://gabenespoli.com/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/vim/</guid>
+      <description>A few small vim plugins that I&amp;rsquo;ve written:
+vim-cider-vinegar
+vim-mutton</description>
+    </item>
+    
+  </channel>
+</rss>

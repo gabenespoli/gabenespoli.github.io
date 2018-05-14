@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotion on Gabe Nespoli</title>
+    <link>http://gabenespoli.com/tags/emotion/</link>
+    <description>Recent content in Emotion on Gabe Nespoli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="http://gabenespoli.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The effects of hearing aids on physiological responses to emotional speech</title>
+      <link>http://gabenespoli.com/physiohearingaids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/physiohearingaids/</guid>
+      <description>This project investigates the effects of hearing aids on skin conductance when hearing emotional speech.
+Analysis code can be found on github at gabenespoli/physiohearingaids. These scripts rely heavily on PHZLAB.</description>
+    </item>
+    
+  </channel>
+</rss>
