@@ -11,23 +11,23 @@
     
     
     <item>
-      <title>An R tool for assessing when averages are stable</title>
-      <link>http://gabenespoli.com/resampling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gabenespoli.com/resampling/</guid>
-      <description>This is a project for assessing when averages become stable.
-The R code can be found on Github at gabenespoli/resampling, and the working paper can be found on the OSF page (Open Science Framework).</description>
-    </item>
-    
-    <item>
-      <title>PHZLAB</title>
+      <title>PHZLAB: A toolbox for analyzing time-series data</title>
       <link>http://gabenespoli.com/phzlab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gabenespoli.com/phzlab/</guid>
       <description>PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral (e.g., EDA, EMG) and neural (i.e., ABR).
 It can be found on Github at gabenespoli/phzlab.</description>
+    </item>
+    
+    <item>
+      <title>Resampling: An R tool for assessing when averages are stable</title>
+      <link>http://gabenespoli.com/resampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/resampling/</guid>
+      <description>This is a project for assessing when averages become stable.
+The R code can be found on Github at gabenespoli/resampling, and the working paper can be found on the OSF page (Open Science Framework).</description>
     </item>
     
     <item>

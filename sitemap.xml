@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gabenespoli.com/resampling/</loc>
-  </url>
-  
-  <url>
     <loc>http://gabenespoli.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -47,6 +43,10 @@
   </url>
   
   <url>
+    <loc>http://gabenespoli.com/physiohearingaids/</loc>
+  </url>
+  
+  <url>
     <loc>http://gabenespoli.com/tags/matlab/</loc>
     <priority>0</priority>
   </url>
@@ -54,10 +54,6 @@
   <url>
     <loc>http://gabenespoli.com/tags/neuroscience/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/entrainment/</loc>
   </url>
   
   <url>
@@ -85,6 +81,10 @@
   </url>
   
   <url>
+    <loc>http://gabenespoli.com/resampling/</loc>
+  </url>
+  
+  <url>
     <loc>http://gabenespoli.com/tags/signal-processing/</loc>
     <priority>0</priority>
   </url>
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>http://gabenespoli.com/physiohearingaids/</loc>
+    <loc>http://gabenespoli.com/entrainment/</loc>
   </url>
   
   <url>
