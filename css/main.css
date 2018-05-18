@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #54969a;
+    color: #9ec98e;
 }
 body
 {
@@ -31,10 +31,6 @@ body
     margin: 0;
 
     background-color: #fcfcfc;
-}
-h2, h3, h4, h5, h6
-{
-    font-family: 'Roboto', sans-serif;
 }
 html
 {
@@ -231,7 +227,7 @@ section.meta {
 .social,
 .social a
 {
-    color: #54969a;
+    color: #00798b;
 }
 .title
 {

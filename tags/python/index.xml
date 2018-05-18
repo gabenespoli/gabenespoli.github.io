@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Gabe Nespoli</title>
-    <link>http://gabenespoli.com/categories/projects/</link>
-    <description>Recent content in Projects on Gabe Nespoli</description>
+    <title>Python on Gabe Nespoli</title>
+    <link>http://gabenespoli.com/tags/python/</link>
+    <description>Recent content in Python on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 May 2018 13:10:56 +0000</lastBuildDate>
     
-	<atom:link href="http://gabenespoli.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gabenespoli.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

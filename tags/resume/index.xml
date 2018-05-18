@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabe Nespoli</title>
-    <link>http://gabenespoli.com/</link>
-    <description>Recent content on Gabe Nespoli</description>
+    <title>Resume on Gabe Nespoli</title>
+    <link>http://gabenespoli.com/tags/resume/</link>
+    <description>Recent content in Resume on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 May 2018 23:46:53 +0000</lastBuildDate>
     
-	<atom:link href="http://gabenespoli.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gabenespoli.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -56,20 +56,6 @@ Summary I am PhD Candidate and aspiring Data Scientist with a passion for coding
 Skills: data analysis, machine learning, signal processing, research design, EEG
 Tools: MATLAB/Octave, Python, R, Linux, git, vim
  &amp;nbsp; resume</description>
-    </item>
-    
-    <item>
-      <title>Coding Projects</title>
-      <link>http://gabenespoli.com/projects/</link>
-      <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
-      
-      <guid>http://gabenespoli.com/projects/</guid>
-      <description>phzlab (MATLAB):
-entrainment (MATLAB):
-physiohearingaids (MATLAB):
-resampling (R): A tool for assessing how much data is needed for an average to become stable.
-extractMIR (MATLAB): A wrapper on MIR Toolbox to extract many audio features from many audio files and save the tabular data. Can append to an existing file to facilitate starting and stopping, since it will usually take a long time.
-toneutils (MATLAB): Generate tones and tone sequences by specifying the desired frequencies, harmonics, length, onset/offset ramps, etc.</description>
     </item>
     
   </channel>

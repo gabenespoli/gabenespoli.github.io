@@ -3,113 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gabenespoli.com/cv/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gabenespoli.com/resume/</loc>
+    <lastmod>2018-05-17T15:49:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gabenespoli.com/about/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gabenespoli.com/projects/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gabenespoli.com/tags/about/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gabenespoli.com/categories/about/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gabenespoli.com/categories/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/tags/coding/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gabenespoli.com/tags/eeg/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/eeglab/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/emotion/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/entrainment/</loc>
+    <loc>http://gabenespoli.com/tags/cv/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/hearing-aids/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/physiohearingaids/</loc>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/tags/matlab/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gabenespoli.com/tags/neuroscience/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/phzlab/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/phzlab/</loc>
+    <loc>http://gabenespoli.com/tags/me/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/categories/projects/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gabenespoli.com/tags/psychophysiology/</loc>
+    <loc>http://gabenespoli.com/tags/python/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/tags/r/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gabenespoli.com/resampling/</loc>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/signal-processing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/tags/skin-conductance/</loc>
+    <loc>http://gabenespoli.com/tags/resume/</loc>
+    <lastmod>2018-05-17T23:46:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/tags/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/entrainment/</loc>
   </url>
   
   <url>
     <loc>http://gabenespoli.com/tags/vim/</loc>
+    <lastmod>2018-05-17T13:10:56+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gabenespoli.com/vim/</loc>
   </url>
   
 </urlset>

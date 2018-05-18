@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Me on Gabe Nespoli</title>
+    <link>http://gabenespoli.com/tags/me/</link>
+    <description>Recent content in Me on Gabe Nespoli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 May 2018 13:10:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://gabenespoli.com/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://gabenespoli.com/about/</link>
+      <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/about/</guid>
+      <description>I am PhD Candidate and aspiring Data Scientist with a passion for coding my way out of complex problems. My current work explores how brains represent music, and why tapping your foot can be irresistible. I am graduating in September and will be looking to start a career in data science.
+Skills: data analysis, machine learning, signal processing, research design, EEG
+Tools: MATLAB/Octave, Python, R, Linux, git, vim
+ &amp;nbsp; resume</description>
+    </item>
+    
+  </channel>
+</rss>

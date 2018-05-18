@@ -6,14 +6,24 @@
     <description>Recent content in Categories on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Thu, 17 May 2018 23:46:53 +0000</lastBuildDate>
     
 	<atom:link href="http://gabenespoli.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>About</title>
+      <link>http://gabenespoli.com/categories/about/</link>
+      <pubDate>Thu, 17 May 2018 23:46:53 +0000</pubDate>
+      
+      <guid>http://gabenespoli.com/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://gabenespoli.com/categories/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
       <guid>http://gabenespoli.com/categories/projects/</guid>
       <description></description>
