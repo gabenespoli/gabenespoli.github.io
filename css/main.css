@@ -17,7 +17,7 @@ a:link
 {
     text-decoration: none;
 
-    color: #9ec98e;
+    color: #00798b;
 }
 body
 {
@@ -56,7 +56,7 @@ html
 }
 .category
 {
-    color: #518c6b !important;
+    color: #7aab7d !important;
 }
 .container
 {
@@ -189,7 +189,7 @@ h3.intro
 
     text-decoration: none;
 
-    color: #518c6b !important;
+    color: #7aab7d !important;
 }
 .meta
 {
@@ -201,7 +201,7 @@ h3.intro
 }
 a.meta
 {
-    color: #518c6b;
+    color: #7aab7d;
 }
 h6.meta
 {
