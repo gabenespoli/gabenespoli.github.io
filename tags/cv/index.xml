@@ -12,17 +12,18 @@
     
     
     <item>
-      <title></title>
-      <link>http://gabenespoli.com/resume/</link>
+      <title>About</title>
+      <link>http://gabenespoli.com/about/</link>
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
-      <guid>http://gabenespoli.com/resume/</guid>
+      <guid>http://gabenespoli.com/about/</guid>
       <description>Gabe Nespoli PhD Candidate
+pdf | cv
  gabenespoli@gmail.com
- Toronto, Ontario, Canada
  gabenespoli.com
  linkedin.com/in/gabenespoli
  github.com/gabenespoli
+ Toronto, Ontario, Canada
 Skills: data analysis, machine learning, signal processing, research design, EEG
 Tools: MATLAB, Python, R, Shell, Linux, git, vim
 Work Experience PhD Candidate 2014-2018 | Ryerson University
@@ -36,6 +37,7 @@ Work Experience PhD Candidate 2014-2018 | Ryerson University
       
       <guid>http://gabenespoli.com/cv/</guid>
       <description>Gabriel A. Nespoli Curriculum Vitae
+resume
 Education Doctor of Philosophy (PhD), Psychology (expected 2018)
 Ryerson University, Toronto, Canada
 Advisor: Frank A. Russo
@@ -47,21 +49,6 @@ Advisor: Frank A. Russo
 Committee: Benjamin J. Dyson, Lixia Yang
 Thesis: Musicianship and Neural Synchronization at Multiple Timescales
 Bachelor of Science (BSc), Psychology (2007)</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://gabenespoli.com/about/</link>
-      <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
-      
-      <guid>http://gabenespoli.com/about/</guid>
-      <description>resume
- cv
- gabenespoli@gmail.com
- Toronto, Ontario, Canada
- gabenespoli.com
- linkedin.com/in/gabenespoli
- github.com/gabenespoli</description>
     </item>
     
   </channel>
