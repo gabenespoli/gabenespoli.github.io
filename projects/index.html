@@ -50,27 +50,53 @@
 </section>
 <section id="content-pane" class="row">
   <div class="col-md-12 text-justify content">
-    <p><a href="https://github.com/gabenespoli/phzlab">phzlab</a> (<em>MATLAB</em>): Probably my biggest coding achievement, PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral and neural. It is in active use in my department and does a great job organizing your labelled signals and plotting them in different combinations.</p>
+    
 
-<p><a href="https://github.com/gabenespoli/entrainment">neuroscience of music and movement</a>: When listening to music, neurons in the brain can synchronize their firing with the beat. This neural entrainment is how we are able to predict when the next beat will occur, and thus how we can tap our feet or dance along. The ability of different music to compel movement in a listener varies, and this is likely also true of neural entrainment. This project investigates certain psychological, acoustic, and musical features of music&mdash;that have previously been found to create a desire to move&mdash;in their ability to entrain neurons in premotor areas of the brain. If a certain feature is good at entraining neurons that are related to planning movement, then it is likely that this is a feature that will create a desire to move in the listener.</p>
+<p>This is a list of some of my coding projects, ordered roughly by size (in lines of code), time (since the start of the project), and effort (in grief caused).</p>
 
-<p><a href="https://github.com/gabenespoli/physiohearingaids">hearing aids and emotion</a> (<em>MATLAB</em>, <em>R</em>): Perceiving emotion in speech is a common shortcoming of modern day hearing aids, which can often lead to difficulties understanding others. This project uses physiological measures to see the effects of hearing aids on physiological responses to emotion. Specifically we investigated skin conductance levels (SCL; a &ldquo;sweat&rdquo; response that is a good indicator of general arousal) in hearing-impaired and -aided listeners when listening to happy, sad, angry, and calm speech.</p>
+<h4 id="phzlab-https-github-com-gabenespoli-phzlab-matlab"><a href="https://github.com/gabenespoli/phzlab">PHZLAB</a> (<em>MATLAB</em>)</h4>
 
-<p><a href="https://github.com/gabenespoli/resampling">resampling</a> (<em>R</em>): A tool for assessing how much data is needed for an average to become stable.</p>
+<p>Probably my biggest coding achievement, PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral and neural. It is in active use in my department and does a great job organizing your labelled signals and plotting them in different combinations.</p>
 
-<p><a href="https://github.com/gabenespoli/extractMIR">extractMIR</a> (<em>MATLAB</em>): A wrapper on <a href="https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox">MIR Toolbox</a> to extract many audio features from many audio files and save the tabular data. Can append to an existing file to facilitate starting and stopping, since it will usually take a long time.</p>
+<h4 id="neural-entrainment-toolbox-https-github-com-gabenespoli-entrainment-matlab-python"><a href="https://github.com/gabenespoli/entrainment">Neural Entrainment Toolbox</a> (<em>MATLAB</em>, <em>Python</em>)</h4>
 
-<p><a href="https://github.com/gabenespoli/toneutils">toneutils</a> (<em>MATLAB</em>): Generate tones and tone sequences by specifying the desired frequencies, harmonics, length, onset/offset ramps, etc. Very flexible and scalable.</p>
+<p>This toolbox contains a) a complete pipeline for preprocessing EEG data using <a href="https://sccn.ucsd.edu/eeglab/index.php">EEGLAB</a> (<em>MATLAB</em>), b) custom signal processing scripts for extracting spectral features from the EEG and exporting a tabular csv file (<em>MATLAB</em>), and c) data wrangling, plotting, and statistics (<em>Python</em>).</p>
 
-<p><a href="https://github.com/gabenespoli/getFolder">getFolder</a> (<em>Python</em>): Small shell utility to use <code>cd</code> and <code>ls</code> without slashes. For example, <code>cdd my folder</code> is equivalent to <code>cd my/folder</code>.</p>
+<h4 id="physiological-analysis-with-phzlab-https-github-com-gabenespoli-physiohearingaids-matlab-r"><a href="https://github.com/gabenespoli/physiohearingaids">Physiological Analysis with PHZLAB</a> (<em>MATLAB</em>, <em>R</em>)</h4>
 
-<p><a href="https://github.com/gabenespoli/vim-cider-vinegar">vim-cider-vinegar</a> (<em>Vim script</em>): A wrapper on <a href="https://github.com/scrooloose/nerdtree">NERDTree</a> and <a href="https://github.com/jeetsukumaran/vim-buffergator">Buffergator</a> to make them replace the current window instead of opening as a sidebar.</p>
+<p>Mostly wrapper scripts in PHZLAB for measuring skin conductance responses. This is a great example of how PHZLAB can be used. Statistical analyses are done in <em>R</em>.</p>
 
-<p><a href="https://github.com/gabenespoli/vim-mutton">vim-mutton</a> (<em>Vim script</em>): Center the current document in the window by opening empty sidebars. Useful when editing a single document in full-screen on a large monitor.</p>
+<h4 id="resampling-https-github-com-gabenespoli-resampling-r"><a href="https://github.com/gabenespoli/resampling">Resampling</a> (<em>R</em>)</h4>
 
-<p><a href="https://github.com/gabenespoli/iterm-colourpalettes">iterm-colour-palettes</a>: A set of colour palettes (not colour schemes) for <a href="https://www.iterm2.com/">iTerm2</a>. By palette I mean a set of 16 ansi colours, not which colours should apply to which syntax. These are all &ldquo;<a href="http://ethanschoonover.com/solarized">solarized</a>&rdquo;, meaning that 8 greys and 8 colours are specified.</p>
+<p>A tool for assessing how much data is needed for an average to become stable.</p>
 
-<p><a href="https://github.com/gabenespoli/dotfiles">dotfiles</a>: My config files.</p>
+<h4 id="extracting-mir-features-https-github-com-gabenespoli-extractmir-matlab"><a href="https://github.com/gabenespoli/extractMIR">Extracting MIR Features</a> (<em>MATLAB</em>)</h4>
+
+<p>A wrapper on <a href="https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox">MIR Toolbox</a> to extract many audio features from many audio files and save the tabular data. Can append to an existing file to facilitate starting and stopping, since it will usually take a long time.</p>
+
+<h4 id="generating-auditory-tones-and-tone-sequences-https-github-com-gabenespoli-toneutils-matlab"><a href="https://github.com/gabenespoli/toneutils">Generating Auditory Tones and Tone Sequences</a> (<em>MATLAB</em>)</h4>
+
+<p>Generate tones and tone sequences by specifying the desired frequencies, harmonics, length, onset/offset ramps, etc. Very flexible and scalable.</p>
+
+<h4 id="cd-and-ls-with-space-instead-of-https-github-com-gabenespoli-getfolder-python"><a href="https://github.com/gabenespoli/getFolder">cd and ls with <code>space</code> instead of <code>/</code></a> (<em>Python</em>)</h4>
+
+<p>Small shell utility to use <code>cd</code> and <code>ls</code> without slashes. For example, <code>cdd my folder</code> is equivalent to <code>cd my/folder</code>.</p>
+
+<h4 id="vim-plugin-anti-project-drawer-for-nerdtree-https-github-com-gabenespoli-vim-cider-vinegar-vim-script"><a href="https://github.com/gabenespoli/vim-cider-vinegar">Vim Plugin: Anti Project-Drawer for NERDTree</a> (<em>Vim script</em>)</h4>
+
+<p>A wrapper on <a href="https://github.com/scrooloose/nerdtree">NERDTree</a> and <a href="https://github.com/jeetsukumaran/vim-buffergator">Buffergator</a> to make them replace the current window instead of opening as a sidebar.</p>
+
+<h4 id="vim-plugin-center-code-on-a-big-monitor-https-github-com-gabenespoli-vim-mutton-vim-script"><a href="https://github.com/gabenespoli/vim-mutton">Vim Plugin: Center Code on a Big Monitor</a> (<em>Vim script</em>)</h4>
+
+<p>Center the current file in the window by opening empty sidebars. Useful when editing a single document in full-screen on a large monitor.</p>
+
+<h4 id="iterm-colour-palettes-https-github-com-gabenespoli-iterm-colourpalettes"><a href="https://github.com/gabenespoli/iterm-colourpalettes">iTerm Colour Palettes</a></h4>
+
+<p>A set of colour palettes (not colour schemes) for <a href="https://www.iterm2.com/">iTerm2</a>. By palette I mean a set of 16 ansi colours, not which colours should apply to which syntax. These are all &ldquo;<a href="http://ethanschoonover.com/solarized">solarized</a>&rdquo;, meaning that 8 greys and 8 colours are specified.</p>
+
+<h4 id="dotfiles-https-github-com-gabenespoli-dotfiles"><a href="https://github.com/gabenespoli/dotfiles">dotfiles</a></h4>
+
+<p>My config files. I&rsquo;ve spent more time on these than I care to admit, but my terminal experience is wonderful, which I do care to admit.</p>
 
   </div>
 </section>
