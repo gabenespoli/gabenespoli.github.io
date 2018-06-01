@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabe Nespoli</title>
-    <link>https://gabenespoli.com/</link>
+    <link>http://gabenespoli.com/</link>
     <description>Recent content on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 May 2018 12:47:01 +0000</lastBuildDate>
     
-	<atom:link href="https://gabenespoli.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gabenespoli.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://gabenespoli.com/about/</link>
+      <link>http://gabenespoli.com/about/</link>
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/about/</guid>
+      <guid>http://gabenespoli.com/about/</guid>
       <description>Gabe Nespoli PhD Candidate
 pdf | cv
  gabenespoli@gmail.com
@@ -32,10 +32,10 @@ Work Experience PhD Candidate 2014-2018 | Ryerson University
     
     <item>
       <title></title>
-      <link>https://gabenespoli.com/cv/</link>
+      <link>http://gabenespoli.com/cv/</link>
       <pubDate>Fri, 18 May 2018 12:46:39 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/cv/</guid>
+      <guid>http://gabenespoli.com/cv/</guid>
       <description>Gabriel A. Nespoli Curriculum Vitae
 resume
 Education Doctor of Philosophy (PhD), Psychology (expected 2018)
@@ -53,29 +53,29 @@ Bachelor of Science (BSc), Psychology (2007)</description>
     
     <item>
       <title>Coding Projects</title>
-      <link>https://gabenespoli.com/projects/</link>
+      <link>http://gabenespoli.com/projects/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/projects/</guid>
+      <guid>http://gabenespoli.com/projects/</guid>
       <description>This is a list of some of my coding projects, ordered roughly by size (in lines of code), time (since the start of the project), and effort (in grief caused).
 PHZLAB (MATLAB) Probably my biggest coding achievement, PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral and neural. It is in active use in my department and does a great job organizing your labelled signals and plotting them in different combinations.</description>
     </item>
     
     <item>
       <title>Hearing aids and phsyiological responses to emotion</title>
-      <link>https://gabenespoli.com/physiohearingaids/</link>
+      <link>http://gabenespoli.com/physiohearingaids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/physiohearingaids/</guid>
+      <guid>http://gabenespoli.com/physiohearingaids/</guid>
       <description>Perceiving emotion in speech is a common shortcoming of modern day hearing aids, which can often lead to difficulties understanding others. This project uses physiological measures to see the effects of hearing aids on physiological responses to emotion. Specifically we investigated skin conductance levels (SCL; a &amp;ldquo;sweat&amp;rdquo; response that is a good indicator of general arousal) in hearing-impaired and -aided listeners when listening to happy, sad, angry, and calm speech.</description>
     </item>
     
     <item>
       <title>Neuroscience of music and movement</title>
-      <link>https://gabenespoli.com/entrainment/</link>
+      <link>http://gabenespoli.com/entrainment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/entrainment/</guid>
+      <guid>http://gabenespoli.com/entrainment/</guid>
       <description>When listening to music, neurons in the brain can synchronize their firing with the beat. This neural entrainment is how we are able to predict when the next beat will occur, and thus how we can tap our feet or dance along. The ability of different music to compel movement in a listener varies, and this is likely also true of neural entrainment. This project investigates certain psychological, acoustic, and musical features of music&amp;mdash;that have previously been found to create a desire to move&amp;mdash;in their ability to entrain neurons in premotor areas of the brain.</description>
     </item>
     
