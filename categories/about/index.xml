@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Gabe Nespoli</title>
-    <link>http://gabenespoli.com/categories/about/</link>
+    <link>https://gabenespoli.com/categories/about/</link>
     <description>Recent content in About on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 May 2018 12:47:01 +0000</lastBuildDate>
     
-	<atom:link href="http://gabenespoli.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gabenespoli.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://gabenespoli.com/about/</link>
+      <link>https://gabenespoli.com/about/</link>
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
-      <guid>http://gabenespoli.com/about/</guid>
+      <guid>https://gabenespoli.com/about/</guid>
       <description>Gabe Nespoli PhD Candidate
 pdf | cv
  gabenespoli@gmail.com
@@ -32,10 +32,10 @@ Work Experience PhD Candidate 2014-2018 | Ryerson University
     
     <item>
       <title></title>
-      <link>http://gabenespoli.com/cv/</link>
+      <link>https://gabenespoli.com/cv/</link>
       <pubDate>Fri, 18 May 2018 12:46:39 +0000</pubDate>
       
-      <guid>http://gabenespoli.com/cv/</guid>
+      <guid>https://gabenespoli.com/cv/</guid>
       <description>Gabriel A. Nespoli Curriculum Vitae
 resume
 Education Doctor of Philosophy (PhD), Psychology (expected 2018)
