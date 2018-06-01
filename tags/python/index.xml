@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Gabe Nespoli</title>
-    <link>https://gabenespoli.com/tags/python/</link>
+    <link>https://www.gabenespoli.com/tags/python/</link>
     <description>Recent content in Python on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 May 2018 13:10:56 +0000</lastBuildDate>
     
-	<atom:link href="https://gabenespoli.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gabenespoli.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding Projects</title>
-      <link>https://gabenespoli.com/projects/</link>
+      <link>https://www.gabenespoli.com/projects/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/projects/</guid>
+      <guid>https://www.gabenespoli.com/projects/</guid>
       <description>This is a list of some of my coding projects, ordered roughly by size (in lines of code), time (since the start of the project), and effort (in grief caused).
 PHZLAB (MATLAB) Probably my biggest coding achievement, PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral and neural. It is in active use in my department and does a great job organizing your labelled signals and plotting them in different combinations.</description>
     </item>

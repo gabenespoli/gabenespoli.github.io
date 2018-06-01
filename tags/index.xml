@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gabe Nespoli</title>
-    <link>https://gabenespoli.com/tags/</link>
+    <link>https://www.gabenespoli.com/tags/</link>
     <description>Recent content in Tags on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 May 2018 13:10:56 +0000</lastBuildDate>
     
-	<atom:link href="https://gabenespoli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gabenespoli.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding</title>
-      <link>https://gabenespoli.com/tags/coding/</link>
+      <link>https://www.gabenespoli.com/tags/coding/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/coding/</guid>
+      <guid>https://www.gabenespoli.com/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cv</title>
-      <link>https://gabenespoli.com/tags/cv/</link>
+      <link>https://www.gabenespoli.com/tags/cv/</link>
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/cv/</guid>
+      <guid>https://www.gabenespoli.com/tags/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotion</title>
-      <link>https://gabenespoli.com/tags/emotion/</link>
+      <link>https://www.gabenespoli.com/tags/emotion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/emotion/</guid>
+      <guid>https://www.gabenespoli.com/tags/emotion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hearing Aids</title>
-      <link>https://gabenespoli.com/tags/hearing-aids/</link>
+      <link>https://www.gabenespoli.com/tags/hearing-aids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/hearing-aids/</guid>
+      <guid>https://www.gabenespoli.com/tags/hearing-aids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matlab</title>
-      <link>https://gabenespoli.com/tags/matlab/</link>
+      <link>https://www.gabenespoli.com/tags/matlab/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/matlab/</guid>
+      <guid>https://www.gabenespoli.com/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Entrainment</title>
-      <link>https://gabenespoli.com/tags/neural-entrainment/</link>
+      <link>https://www.gabenespoli.com/tags/neural-entrainment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/neural-entrainment/</guid>
+      <guid>https://www.gabenespoli.com/tags/neural-entrainment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physiology</title>
-      <link>https://gabenespoli.com/tags/physiology/</link>
+      <link>https://www.gabenespoli.com/tags/physiology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/physiology/</guid>
+      <guid>https://www.gabenespoli.com/tags/physiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://gabenespoli.com/tags/python/</link>
+      <link>https://www.gabenespoli.com/tags/python/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/python/</guid>
+      <guid>https://www.gabenespoli.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://gabenespoli.com/tags/r/</link>
+      <link>https://www.gabenespoli.com/tags/r/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/r/</guid>
+      <guid>https://www.gabenespoli.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://gabenespoli.com/tags/resume/</link>
+      <link>https://www.gabenespoli.com/tags/resume/</link>
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/resume/</guid>
+      <guid>https://www.gabenespoli.com/tags/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>https://gabenespoli.com/tags/vim/</link>
+      <link>https://www.gabenespoli.com/tags/vim/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/tags/vim/</guid>
+      <guid>https://www.gabenespoli.com/tags/vim/</guid>
       <description></description>
     </item>
     

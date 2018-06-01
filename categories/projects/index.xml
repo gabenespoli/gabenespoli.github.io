@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Gabe Nespoli</title>
-    <link>https://gabenespoli.com/categories/projects/</link>
+    <link>https://www.gabenespoli.com/categories/projects/</link>
     <description>Recent content in Projects on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 May 2018 13:10:56 +0000</lastBuildDate>
     
-	<atom:link href="https://gabenespoli.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gabenespoli.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding Projects</title>
-      <link>https://gabenespoli.com/projects/</link>
+      <link>https://www.gabenespoli.com/projects/</link>
       <pubDate>Thu, 17 May 2018 13:10:56 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/projects/</guid>
+      <guid>https://www.gabenespoli.com/projects/</guid>
       <description>This is a list of some of my coding projects, ordered roughly by size (in lines of code), time (since the start of the project), and effort (in grief caused).
 PHZLAB (MATLAB) Probably my biggest coding achievement, PHZLAB is a MATLAB Toolbox for analyzing physiological data, both peripheral and neural. It is in active use in my department and does a great job organizing your labelled signals and plotting them in different combinations.</description>
     </item>
     
     <item>
       <title>Hearing aids and phsyiological responses to emotion</title>
-      <link>https://gabenespoli.com/physiohearingaids/</link>
+      <link>https://www.gabenespoli.com/physiohearingaids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/physiohearingaids/</guid>
+      <guid>https://www.gabenespoli.com/physiohearingaids/</guid>
       <description>Perceiving emotion in speech is a common shortcoming of modern day hearing aids, which can often lead to difficulties understanding others. This project uses physiological measures to see the effects of hearing aids on physiological responses to emotion. Specifically we investigated skin conductance levels (SCL; a &amp;ldquo;sweat&amp;rdquo; response that is a good indicator of general arousal) in hearing-impaired and -aided listeners when listening to happy, sad, angry, and calm speech.</description>
     </item>
     
     <item>
       <title>Neuroscience of music and movement</title>
-      <link>https://gabenespoli.com/entrainment/</link>
+      <link>https://www.gabenespoli.com/entrainment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gabenespoli.com/entrainment/</guid>
+      <guid>https://www.gabenespoli.com/entrainment/</guid>
       <description>When listening to music, neurons in the brain can synchronize their firing with the beat. This neural entrainment is how we are able to predict when the next beat will occur, and thus how we can tap our feet or dance along. The ability of different music to compel movement in a listener varies, and this is likely also true of neural entrainment. This project investigates certain psychological, acoustic, and musical features of music&amp;mdash;that have previously been found to create a desire to move&amp;mdash;in their ability to entrain neurons in premotor areas of the brain.</description>
     </item>
     
