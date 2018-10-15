@@ -17,17 +17,16 @@
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
       <guid>https://www.gabenespoli.com/about/</guid>
-      <description>Gabe Nespoli PhD Candidate
+      <description>Gabe Nespoli, PhD Data Scientist
 pdf | cv
  gabenespoli@gmail.com
  www.gabenespoli.com
  linkedin.com/in/gabenespoli
  github.com/gabenespoli
- Toronto, Ontario, Canada
-Skills: data analysis, machine learning, signal processing, research design, EEG
-Tools: MATLAB, Python, R, Shell, Linux, git, vim
-Work Experience PhD Candidate 2014-2018 | Ryerson University
- Designs and programs experiments measuring neural (EEG, FFR; BioSemi, Biopac and physiological (SCL, EMG, HR; Biopac) activity Uses signal processing algorithms for analyzing multi-channel biological data (e.</description>
+Skills: signal processing, research design, data collection, wrangling, and modelling, machine learning
+Tools: MATLAB, Python, R, Shell, Linux, git, vim, EEG (BioSemi, EEGLAB), Psychophysiology (Biopac)
+Work Experience Data Scientist 2018-Present | SMART Lab, Department of Psychology, Ryerson University
+ Creates tools for analysis and visualization of biological time-series data, empowering colleagues to understand their data PHZLAB (github)  Provides tools for importing, segmenting, processing, and visualization of multiple trials of time-series data Automates the extraction of features, allowing for quick visualization of different processing pipelines  Neural Entrainment Toolbox (github)  Wrangles EEG data to assess the entrainment of neurons in different parts of the brain Automates the entire process, making it simple to investigate different combinations of entrainment frequencies, brain regions, and other parameters   Graduate Student 2012-2018 | SMART Lab, Department of Psychology, Ryerson University</description>
     </item>
     
     <item>
