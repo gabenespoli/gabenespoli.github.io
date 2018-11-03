@@ -20,13 +20,10 @@
       <description>pdf | cv
 Kitchener, Ontario, Canada
  gabenespoli@gmail.com
- www.gabenespoli.com
  linkedin.com/in/gabenespoli
  github.com/gabenespoli
-Skills: signal processing, research design, data collection, wrangling, and modelling
-Tools: MATLAB, Python, R, shell, git, EEG, Psychophysiology
-Work Experience Data Scientist 2018-Present | SMART Lab, Ryerson University
- Creates tools for analysis and visualization of biological time-series data, empowering colleagues to understand their data, i.e., PHZLAB and the Neural Entrainment Toolbox  Graduate Student 2012-2018 | SMART Lab, Ryerson University</description>
+Summary  Resourceful innovator and creative thinker who developed a novel analysis method for assessing localized neural dynamics Experienced programmer with a keen interest in machine learning Superb communication skills and ability to clearly explain complex ideas  Work Experience Knowledge Translator &amp;amp; Mentor as a Data Scientist at Ryerson University | 2018-Present
+ Creates software tools for analysis and visualization of biological time-series data, automating many analyses and saving hours of researcher time Creates tutorials and mentors graduate students, inspiring them to learn programming and empowering them to understand and manipulate their data Projects: PHZLAB (github link), Neural Entrainment Toolbox (github link)  Innovator of Advanced Signal Processing Techniques as a Graduate Student at Ryerson University | 2012-2018</description>
     </item>
     
     <item>
@@ -37,16 +34,16 @@ Work Experience Data Scientist 2018-Present | SMART Lab, Ryerson University
       <guid>https://www.gabenespoli.com/cv/</guid>
       <description>Gabriel A. Nespoli Curriculum Vitae
 resume
-Education Doctor of Philosophy (PhD), Psychology (expected 2018)
+Education Doctor of Philosophy (Ph.D.), Psychology (2018)
 Ryerson University, Toronto, Canada
 Advisor: Frank A. Russo
 Committee: Todd A. Girard, Margaret C. Moulson, Peter Vuust
-Thesis: The Neuroscience of Groove: Neural Mechanisms Marrying Music and Movement
-Master of Arts (MA), Psychology (2014)
+Dissertation: The neuroscience of groove: Neural mechanisms marrying music and movement
+Master of Arts (M.A.), Psychology (2014)
 Ryerson University, Toronto, Canada
 Advisor: Frank A. Russo
 Committee: Benjamin J. Dyson, Lixia Yang
-Thesis: Musicianship and Neural Synchronization at Multiple Timescales</description>
+Thesis: Musicianship and neural synchronization at multiple timescales</description>
     </item>
     
   </channel>
