@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gabenespoli.com/about/</loc>
-    <lastmod>2018-05-18T12:47:01+00:00</lastmod>
+    <loc>https://www.gabenespoli.com/blog/mlb-data-description/</loc>
+    <lastmod>2018-11-23T10:22:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gabenespoli.com/cv/</loc>
-    <lastmod>2018-05-18T12:46:39+00:00</lastmod>
+    <loc>https://www.gabenespoli.com/about/</loc>
+    <lastmod>2018-05-18T12:47:01+00:00</lastmod>
   </url>
   
   <url>
@@ -20,6 +20,12 @@
   <url>
     <loc>https://www.gabenespoli.com/categories/about/</loc>
     <lastmod>2018-05-18T12:47:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gabenespoli.com/blog/</loc>
+    <lastmod>2018-11-23T10:22:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +42,8 @@
   </url>
   
   <url>
-    <loc>https://www.gabenespoli.com/tags/cv/</loc>
-    <lastmod>2018-05-18T12:47:01+00:00</lastmod>
+    <loc>https://www.gabenespoli.com/tags/data/</loc>
+    <lastmod>2018-11-23T10:22:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,7 +54,7 @@
   
   <url>
     <loc>https://www.gabenespoli.com/</loc>
-    <lastmod>2018-05-18T12:47:01+00:00</lastmod>
+    <lastmod>2018-11-23T10:22:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -64,6 +70,12 @@
   <url>
     <loc>https://www.gabenespoli.com/tags/matlab/</loc>
     <lastmod>2018-05-17T13:10:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gabenespoli.com/tags/mlb/</loc>
+    <lastmod>2018-11-23T10:22:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,12 +108,6 @@
   <url>
     <loc>https://www.gabenespoli.com/tags/r/</loc>
     <lastmod>2018-05-17T13:10:56+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gabenespoli.com/tags/resume/</loc>
-    <lastmod>2018-05-18T12:47:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   

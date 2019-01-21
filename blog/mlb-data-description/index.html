@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="description" content="Gabe Nespoli, Ph.D.">
+<meta name="keywords" content="data,science,neuroscience,eeg">
+
+<base href="https://www.gabenespoli.com/">
+
+<title>Gabe Nespoli</title>
+
+<meta name="generator" content="Hugo 0.52" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400|Roboto:300,300i,400,400i,500,500i,700,700i|Gentium+Basic:400,400i,700,700i">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+<link rel="stylesheet" href="https://www.gabenespoli.com/css/main.css">
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="theme-color" content="#ffffff">
+
+</head>
+<body lang="en-US">
+<div class="container">
+
+
+<header class="row text-left title">
+  <h1 class="title">MLB Data Description</h1>
+</header>
+<section id="category-pane" class="row meta">
+  
+  <div class="col-md-12">
+    <h6 class="text-left meta">
+        PUBLISHED ON NOV 23, 2018 
+      
+    </h6>
+  </div>
+  
+</section>
+<section id="content-pane" class="row">
+  <div class="col-md-12 text-justify content">
+    <p>I have had a tough time finding this information online in one place, so I thought I would amalgamate it here. Many of the descriptions come from a <a href="https://fastballs.wordpress.com/2007/08/02/glossary-of-the-gameday-pitch-fields/">Fast Balls article from 2007</a>, but there have been many variables added since then. In most cases it was obvious so I&rsquo;ve spelled out a description.</p>
+
+<table>
+<thead>
+<tr>
+<th>Variable Name</th>
+<th>Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>index</code></td>
+<td>A unique identification number per pitch within a game. The numbers increment by one for each pitch but are not consecutive between at bats.</td>
+</tr>
+
+<tr>
+<td><code>pitch_type</code>*</td>
+<td><code>AB</code>: Automatic Ball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>AS</code>: Automatic Strike</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>CH</code>: Change-up</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>CU</code>: Curveball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>EP</code>: Eephus</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>FC</code>: Cutter</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>FF</code>: Four-Seam Fastball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>FO</code>: Forkball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>FS</code>: Splitter</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>FT</code>: Two-Seam Fastball (synonymous with <code>SI</code>)</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>GY</code>: Gyroball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>IN</code>: Intentional Ball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>KC</code>: Knuckle Curve</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>KN</code>: Knuckleball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>NP</code>: No Pitch</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>PO</code>: Pitchout</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>SC</code>: Screwball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>SI</code>: Sinker (synonymous with <code>FT</code>)</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>SL</code>: Slider</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>UN</code>: Unknown</td>
+</tr>
+
+<tr>
+<td><code>game_date</code></td>
+<td>Date the game was played (<code>yyyy-mm-dd</code>)</td>
+</tr>
+
+<tr>
+<td><code>release_speed</code></td>
+<td>The pitch speed, in miles per hour and in three dimensions, measured at the initial point, y0. Of the two speeds, this one is closer to the speed measured by a radar gun and what we are familiar with for a pitcher’s &ldquo;velocity&rdquo; .</td>
+</tr>
+
+<tr>
+<td><code>release_pos_x</code></td>
+<td>The left/right distance, in feet, of the pitch, measured at the initial point.</td>
+</tr>
+
+<tr>
+<td><code>release_pos_z</code></td>
+<td>The height, in feet, of the pitch, measured at the initial point.</td>
+</tr>
+
+<tr>
+<td><code>player_name</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>batter</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>pitcher</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>events</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>description</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>spin_dir</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>spin_rate_deprecated</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>break_angle_deprecated</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>break_length_deprecated</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>zone</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>des</code></td>
+<td>A brief text description of the result of the pitch:</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Ball</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Ball In Dirt</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Called Strike</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Foul</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Foul (Runner Going)</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Foul Tip</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Hit by Pitch</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>In play, no out</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>In play, out(s)</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>In play, run(s)</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Intent Ball</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Pitchout</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Swinging Strike</code></td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>Swinging Strike (Blocked)</code></td>
+</tr>
+
+<tr>
+<td><code>game_type</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>stand</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>p_throws</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>home_team</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>away_team</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>type</code></td>
+<td>A one-letter abbreviation for the result of the pitch:</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>B</code>: ball</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>S</code>: strike (including fouls)</td>
+</tr>
+
+<tr>
+<td></td>
+<td><code>X</code>: in play</td>
+</tr>
+
+<tr>
+<td><code>hit_location</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>bb_type</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>balls</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>strikes</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>game_year</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>pfx_x</code></td>
+<td>The horizontal movement, in inches, of the pitch between the release point and home plate, as compared to a theoretical pitch thrown at the same speed with no spin-induced movement. This parameter is measured at y=40 feet regardless of the y0 value.</td>
+</tr>
+
+<tr>
+<td><code>pfx_z</code></td>
+<td>The vertical movement, in inches, of the pitch between the release point and home plate, as compared to a theoretical pitch thrown at the same speed with no spin-induced movement. This parameter is measured at y=40 feet regardless of the y0 value.</td>
+</tr>
+
+<tr>
+<td><code>plate_x</code></td>
+<td>The left/right distance, in feet, of the pitch from the middle of the plate as it crossed home plate. The PITCHf/x coordinate system is oriented to the catcher’s/umpire’s perspective, with distances to the right being positive and to the left being negative.</td>
+</tr>
+
+<tr>
+<td><code>plate_z</code></td>
+<td>The height of the pitch in feet as it crossed the front of home plate.<code>on_3b</code></td>
+</tr>
+
+<tr>
+<td><code>on_2b</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>on_1b</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>outs_when_up</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>inning</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>inning_topbot</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>hc_x</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>hc_y</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>tfs_deprecated</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>tfs_zulu_deprecated</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_2</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>umpire</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>sv_id</code></td>
+<td>A date/time stamp of when the PITCHf/x tracking system first detected the pitch in the air, it is in the format <code>YYMMDD_hhmmss</code>.</td>
+</tr>
+
+<tr>
+<td><code>vx0</code></td>
+<td>The horizontal velocity of the pitch measured at the initial point, in feet per second.</td>
+</tr>
+
+<tr>
+<td><code>vy0</code></td>
+<td>The forward (towards home plate) velocity of the pitch measured at the initial point, in feet per second.</td>
+</tr>
+
+<tr>
+<td><code>vz0</code></td>
+<td>The vertical velocity of the pitch measured at the initial point, in feet per second.</td>
+</tr>
+
+<tr>
+<td><code>ax</code></td>
+<td>The horizontal acceleration of the pitch measured at the initial point, in feet per second per second.</td>
+</tr>
+
+<tr>
+<td><code>ay</code></td>
+<td>The forward (towards home plate) acceleration of the pitch measured at the initial point, in feet per second per second.</td>
+</tr>
+
+<tr>
+<td><code>az</code></td>
+<td>The vertical acceleration of the pitch measured at the initial point, in feet per second per second.</td>
+</tr>
+
+<tr>
+<td><code>sz_top</code></td>
+<td>The distance in feet from the ground to the top of the current batter’s rulebook strike zone as measured from the video by the PITCHf/x operator. The operator sets a line at the batter’s belt as he settles into the hitting position, and the PITCHf/x software adds four inches up for the top of the zone.</td>
+</tr>
+
+<tr>
+<td><code>sz_bot</code></td>
+<td>The distance in feet from the ground to the bottom of the current batter’s rulebook strike zone. The PITCHf/x operator sets a line at the hollow of the knee for the bottom of the zone.</td>
+</tr>
+
+<tr>
+<td><code>hit_distance_sc</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>launch_speed</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>launch_angle</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>effective_speed</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>release_spin_rate</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>release_extension</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>game_pk</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>pitcher.1</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_2.1</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_3</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_4</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_5</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_6</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_7</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_8</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fielder_9</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>release_pos_y</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>estimated_ba_using_speedangle</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>estimated_woba_using_speedangle</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>woba_value</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>woba_denom</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>babip_value</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>iso_value</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>launch_speed_angle</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>at_bat_number</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>pitch_number</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>pitch_name</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>home_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>away_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>bat_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>fld_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>post_away_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>post_home_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>post_bat_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>post_fld_score</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>if_fielding_alignment</code></td>
+<td></td>
+</tr>
+
+<tr>
+<td><code>of_fielding_alignment</code></td>
+<td>test</td>
+</tr>
+</tbody>
+</table>
+
+<p>* Pitch types from <a href="https://www.daktronics.com/support/kb/Pages/DD3312647.aspx">Daktronics</a>.</p>
+
+  </div>
+</section>
+<section id="tag-pane" class="row meta">
+  
+  <div class="col-md-12">
+    <h6 class="text-right meta">
+      
+      
+      
+      TAGS:
+      
+      
+      <a class="meta" href="/tags/data">DATA</a>, 
+      
+      <a class="meta" href="/tags/mlb">MLB</a>
+      
+      
+      
+    </h6>
+  </div>
+  
+</section>
+
+
+
+
+
+
+
+
+<section id="menu-pane" class="row menu text-center">
+  
+  
+  
+  
+  
+  <h4 class="text-center"><a class="menu-item" href="https://www.gabenespoli.com/">home</a></h4>
+</section>
+
+
+
+<footer class="row text-center footer">
+  <hr />
+  
+  <h6 class="text-center copyright">© 2018. Gabe Nespoli. <a href="http://creativecommons.org/licenses/by/3.0/">Some Rights Reserved</a>.</h6>
+  
+  <h6 class="text-center powered">Powered by <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/shenoybr/hugo-goa">Goa</a>.</h6>
+  
+  
+</footer>
+
+</div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  
+
+<script type="text/javascript">
+hljs.initHighlightingOnLoad();
+</script>
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-80831666-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
+
+

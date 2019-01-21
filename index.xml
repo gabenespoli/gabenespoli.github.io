@@ -6,10 +6,20 @@
     <description>Recent content on Gabe Nespoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 18 May 2018 12:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2018 10:22:30 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gabenespoli.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MLB Data Description</title>
+      <link>https://www.gabenespoli.com/blog/mlb-data-description/</link>
+      <pubDate>Fri, 23 Nov 2018 10:22:30 -0500</pubDate>
+      
+      <guid>https://www.gabenespoli.com/blog/mlb-data-description/</guid>
+      <description>I have had a tough time finding this information online in one place, so I thought I would amalgamate it here. Many of the descriptions come from a Fast Balls article from 2007, but there have been many variables added since then. In most cases it was obvious so I&amp;rsquo;ve spelled out a description.
+   Variable Name Description     index A unique identification number per pitch within a game.</description>
+    </item>
     
     <item>
       <title>Gabe Nespoli, Ph.D.</title>
@@ -17,33 +27,7 @@
       <pubDate>Fri, 18 May 2018 12:47:01 +0000</pubDate>
       
       <guid>https://www.gabenespoli.com/about/</guid>
-      <description>pdf | cv
-Kitchener, Ontario, Canada
- gabenespoli@gmail.com
- linkedin.com/in/gabenespoli
- github.com/gabenespoli
-Summary  Resourceful innovator and creative thinker who developed a novel analysis method for assessing localized neural dynamics Experienced programmer with a keen interest in machine learning Superb communication skills and ability to clearly explain complex ideas  Work Experience Knowledge Translator &amp;amp; Mentor as a Data Scientist at Ryerson University | 2018-Present
- Creates software tools for analysis and visualization of biological time-series data, automating many analyses and saving hours of researcher time Creates tutorials and mentors graduate students, inspiring them to learn programming and empowering them to understand and manipulate their data Projects: PHZLAB (github link), Neural Entrainment Toolbox (github link)  Innovator of Advanced Signal Processing Techniques as a Graduate Student at Ryerson University | 2012-2018</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.gabenespoli.com/cv/</link>
-      <pubDate>Fri, 18 May 2018 12:46:39 +0000</pubDate>
-      
-      <guid>https://www.gabenespoli.com/cv/</guid>
-      <description>Gabriel A. Nespoli Curriculum Vitae
-resume
-Education Doctor of Philosophy (Ph.D.), Psychology (2018)
-Ryerson University, Toronto, Canada
-Advisor: Frank A. Russo
-Committee: Todd A. Girard, Margaret C. Moulson, Peter Vuust
-Dissertation: The neuroscience of groove: Neural mechanisms marrying music and movement
-Master of Arts (M.A.), Psychology (2014)
-Ryerson University, Toronto, Canada
-Advisor: Frank A. Russo
-Committee: Benjamin J. Dyson, Lixia Yang
-Thesis: Musicianship and neural synchronization at multiple timescales</description>
+      <description>I am a neuro- and data scientist who develops tools for finding meaningful insights in huge amounts of messy data. I recently received a PhD for studying how the brain tracks the beat in music, and how this can create an irresistible urge to move along. I specialize in signal processing and EEG data, but have a rapidly developing interest in machine learning, neural networks, and artificial intelligence. If I&amp;rsquo;m not coding, I&amp;rsquo;m probably at the park with the kids, cooking, or playing the B3.</description>
     </item>
     
     <item>

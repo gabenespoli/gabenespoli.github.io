@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Gabe Nespoli</title>
+    <link>https://www.gabenespoli.com/tags/data/</link>
+    <description>Recent content in Data on Gabe Nespoli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Nov 2018 10:22:30 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gabenespoli.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MLB Data Description</title>
+      <link>https://www.gabenespoli.com/blog/mlb-data-description/</link>
+      <pubDate>Fri, 23 Nov 2018 10:22:30 -0500</pubDate>
+      
+      <guid>https://www.gabenespoli.com/blog/mlb-data-description/</guid>
+      <description>I have had a tough time finding this information online in one place, so I thought I would amalgamate it here. Many of the descriptions come from a Fast Balls article from 2007, but there have been many variables added since then. In most cases it was obvious so I&amp;rsquo;ve spelled out a description.
+   Variable Name Description     index A unique identification number per pitch within a game.</description>
+    </item>
+    
+  </channel>
+</rss>
